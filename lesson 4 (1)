@@ -1,0 +1,34 @@
+#include <iostream>
+using namespace std;
+
+ class employee {
+     
+     private:
+     string name;
+     int salary;
+     
+     public:
+     void setsalary(int s){
+         salary = s;
+     }
+     
+     int getsalary() {
+         return salary;
+     }
+     
+     void setname(int n){
+         name = n;
+     }
+     
+     string getname() {
+         return name;
+     }
+ };
+ 
+ int main(){
+     employee el;
+     el.setsalary(99000000);
+     cout<<"salary is:"<<el.getsalary() <<endl;
+     
+     return 0;
+ }
