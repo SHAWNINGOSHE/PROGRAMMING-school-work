@@ -1,3 +1,8 @@
+/*Author:Shawn Ingoshe
+Reg No:BSE-05-0199/2024
+Group:BSE group 3
+Github:SHAWNINGOSHE*/
+
 #include <iostream>
 #include <string>
 using namespace std;
