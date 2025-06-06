@@ -1,3 +1,7 @@
+/*Author:Shawn Douglas
+Reg No:BSE-05-0199/2024
+Group:Group 3
+*/
 // LoginProgram.java
 // Implements a simple login system with limited attempts.
 
