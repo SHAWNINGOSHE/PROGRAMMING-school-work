@@ -11,7 +11,7 @@ public class LoginProgram {
 
     // Correct username and password for validation.
     private static final String CORRECT_USERNAME = "admin";
-    private static final String CORRECT_PASSWORD = "password123";
+    private static final String CORRECT_PASSWORD = "password";
     private static final int MAX_TRIES = 3; // Maximum allowed login attempts.
 
     public static void main(String[] args) {
